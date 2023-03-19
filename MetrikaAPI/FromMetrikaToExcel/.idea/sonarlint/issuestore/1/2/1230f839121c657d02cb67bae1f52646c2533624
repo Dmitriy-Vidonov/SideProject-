@@ -1,0 +1,13 @@
+
+`
+java:S2095N"JUse try-with-resources or close this "XSSFWorkbook" in a "finally" clause.(¸™á…
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ºÉ³Í
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(óúôä
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(”Ó”‡
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ýÂˆõ
+n	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(«ÓÇ
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(î™’Ÿýÿÿÿÿ
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(§øùêþÿÿÿÿ
+N	java:S106u"9Replace this use of System.out or System.err by a logger.(—ÅÄŽ
+S	java:S106x"9Replace this use of System.out or System.err by a logger.(¹Õ³úüÿÿÿÿ
+W	java:S125ƒ"<This block of commented-out lines of code should be removed.(‘¤äÑøÿÿÿÿ
